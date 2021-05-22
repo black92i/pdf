@@ -1,5 +1,20 @@
 <html>
-<body style="margin: 0; padding: 0; border: 0;">
-<iframe src="pdf/ct2021.pdf" style="width:100%; height:100%;" frameborder="0" ></iframe>
+<head>
+<link rel="stylesheet" type="text/css" media="all" href="style.css" />
+</head>
+<body>
+<!-- embed responsive iframe --> 
+<!-- ======================= -->
+
+
+  <div class="responsive-wrapper 
+     responsive-wrapper-wxh-572x612"
+     style="-webkit-overflow-scrolling: touch; overflow: auto;">
+
+    <iframe src="ct2021.pdf" style="width:100%; height:100%;" frameborder="0"> 
+    </iframe>
+    
+  </div>
+
 </body>
 </html>
